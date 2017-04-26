@@ -1,5 +1,5 @@
 ## Task:
-![Pager component](https://github.com/furytale/goit/blob/master/pager/pager.png "Pager component")
+![Pager component](https://github.com/furytale/goit/blob/master/paging/paging.png "Pager component")
 ## 1. Create Pager component
  - Use the next html structure:
 ```
